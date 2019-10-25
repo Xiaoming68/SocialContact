@@ -2,7 +2,7 @@
 
 伟大的社交管理后台页面
 
-＃Download
+# Download
 
 git clone git@github.com:Xiaoming68/SocialContact.git
 
