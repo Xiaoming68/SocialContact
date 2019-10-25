@@ -10,6 +10,6 @@ git clone git@github.com:Xiaoming68/SocialContact.git
 
 http://superphp.top/index
 
-# Use
+# Usage
 
 下载后，可以直接访问。
